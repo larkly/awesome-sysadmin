@@ -596,7 +596,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code](https://github.com/aptly-dev/aptly)) `MIT` `Go`
-- [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
+- [fpm](https://fpm.readthedocs.io/en/latest/) - Versatile multi format package creator. ([Source Code](https://github.com/jordansissel/fpm))
 - [omnibus-ruby](https://github.com/chef/omnibus) - Full stack, cross distro packaging software (Ruby).
 - [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 - [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
